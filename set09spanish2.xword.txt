@@ -1,0 +1,27 @@
+# Crossword Word hunt - Spanish homework 2
+# Sept 2009
+# 
+# The first valid line indicate the number of rows
+# The second valid line indicate the number of columns
+# An empty line must be present after the number of columns
+# After that, each line contains a valid crossword row - no spaces allowed
+#
+# Renomine or copy this file as xword.txt to use it
+#
+15
+13
+
+APRIMAVERAETERM
+NPENSTADENUBONV
+AASVODEASAGLUOU
+MEVIAAVTOBAABNC
+ESIEDEEGLCFGHEE
+STERIHACEFRIOUS
+ERNNAPHCVNOBIRT
+DETOMAATEMRENTA
+NLOACHULUAEVIIC
+IALOAIVULHIELOI
+FETEMPESTADIELO
+RELAPARVERANOIN
+EONOTOCSERFECAH
+

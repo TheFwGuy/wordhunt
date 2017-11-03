@@ -1,0 +1,32 @@
+# Crossword Word hunt - Math homework 2
+# Sept 2009
+# 
+# The first valid line indicate the number of rows
+# The second valid line indicate the number of columns
+# An empty line must be present after the number of columns
+# After that, each line contains a valid crossword row - no spaces allowed
+#
+# Renomine or copy this file as xword.txt to use it
+#
+18
+18
+
+649.91353029142420
+952754721458901743
+1.31.7064090635109
+1490456.272.124124
+.64.198301.22819.8
+91.983194030471346
+0867295378.8540265
+8135320593622018.7
+27490723.87140.078
+622035302912.5426.
+530893.43752637497
+435475716.92842001
+0593.60540436.73.4
+.44281736043629537
+0286721206347.636.
+21..4.965.01299140
+864821574627135.21
+.3099.0967988.7627
+

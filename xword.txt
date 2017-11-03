@@ -1,0 +1,34 @@
+# Crossword Word hunt - Spanish homework
+# Jan 2010
+# 
+# The first valid line indicate the number of rows
+# The second valid line indicate the number of columns
+# An empty line must be present after the number of columns
+# After that, each line contains a valid crossword row - no spaces allowed
+#
+# Renomine or copy this file as xword.txt to use it
+#
+19
+20
+
+BALOQUEOIRADNELACSEA
+COLAAPREZIPALESNDBER
+UILUALTAVOSEPESGPOOO
+ARESCNLARCPALALODLIS
+DOUAOINEAAPENOMEOIRE
+ETSRINLEPEPABORCMGAF
+RISEMOPEDAIODAEAIRDO
+NROJJPDAPSTEPDPBCAER
+OCRIRAJERELESETARFCP
+DSBTCODERADEUAILOOEI
+SEIEHOPAPACRRZPEFABN
+EBLCTIQUPIAUOIUTOCAT
+LFDSAUEAPSMSATPENERU
+EFENERMAIOPOLDCGOHER
+CCOOTELIZRAJUJEEKLCA
+NLMANGOMADNUMNORYPES
+ISECULQRRAIBNRSTNOPU
+PSATNALPAULIALUMNORV
+ETERUBATOCADISCOSZSP
+
+

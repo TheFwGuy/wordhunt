@@ -1,4 +1,4 @@
-/* test
+/*
  *  Word Hunter
  *  This program is looking in a word hunter crossword for some words.
  *  Programmer : SB - Sept 2008

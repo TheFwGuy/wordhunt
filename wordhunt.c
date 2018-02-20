@@ -171,7 +171,7 @@ int main(int argc, char * *argv)
 
             default:
                printf("ERROR reading file !!");
-               exit();
+               exit(1);
                break;
          }
       }
